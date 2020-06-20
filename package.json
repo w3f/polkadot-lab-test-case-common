@@ -1,6 +1,6 @@
 {
   "name": "@w3f/polkadot-lab-test-case-common",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Common library for all Polkadot Lab test cases",
   "repository": "git@github.com:w3f/helm-ts.git",
   "author": "W3F Infrastructure Team <devops@web3.foundation>",
@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "@w3f/logger": "^0.3.0",
-    "@w3f/polkadot-lab-types": "^0.7.0",
+    "@w3f/polkadot-lab-types": "^0.8.0",
     "ws": "^7.3.0"
   },
   "devDependencies": {
